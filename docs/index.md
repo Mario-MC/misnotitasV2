@@ -32,14 +32,15 @@ Si tuviera que hacer un top de mis videojuegos fav de los ultimos 3 años seria 
 |![Resident Evil 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNFMslJgqUWEAq4WpZl_kGa4WkjDEzh1vgQ&usqp=CAU)| ![Resident Evil 8](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPCSWVFBZbBPre8DC3Jj2jX1KbfbqLHH5NbQ&usqp=CAU)    |   ![A plague tale](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgISA_Cg8AcTOvhk32FBwkFPYKc6yPTn8TCA&usqp=CAU)    |
 
 
-## Videos musicales
+## Videos
 
+### Musical
 Videoclip de Copiloto añadido desde youtube
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/YYTvvQHZgTQ" title="Belén Aguilera & KICKBOMBO - COPILOTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
+### Moniles
 Video insertado de un mono comiendo una manzana
 <video id="medio" width="700" height="350" controls>
      <source src="img/Mono.mp4">
@@ -47,6 +48,11 @@ Video insertado de un mono comiendo una manzana
 </video>
 
 
+## Audio Canción
+Audio de canción de Sakura version live 
+<audio id="medio" controls>
+     <source src="img/Sakura.mp3" type='audio/mpeg; codecs="mp3"'>
+</audio>
 
 
 
