@@ -34,9 +34,9 @@ Si tuviera que hacer un top de mis videojuegos fav de los ultimos 3 años seria 
 
 ### Videos musicales
 
-<iframe width="500" height="500" src="https://www.youtube.com/embed/YYTvvQHZgTQ" title="Belén Aguilera & KICKBOMBO - COPILOTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/YYTvvQHZgTQ" title="Belén Aguilera & KICKBOMBO - COPILOTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Extra
+### Extra Imagenes
 
 
 La imagen cambiará en función de la dimensión de la pantalla.
