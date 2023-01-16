@@ -38,6 +38,12 @@ Videoclip de Copiloto añadido desde youtube
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/YYTvvQHZgTQ" title="Belén Aguilera & KICKBOMBO - COPILOTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Video insertado de un mono comiendo una manzana
+
+<video id="medio" width="700" height="350" controls>
+     <source src="img/Mono.mp4">
+     Tu navegador no soporta vídeo
+</video>
 
 
 ## Extra Imagenes
