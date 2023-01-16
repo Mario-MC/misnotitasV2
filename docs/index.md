@@ -33,7 +33,7 @@ Si tuviera que hacer un top de mis videojuegos fav de los ultimos 3 años seria 
 
 ### Extra
 
-EN construcción...
+Imagen que irá cambiando según sea el tamaño de la página
 
 <img srcset="img/3.jpg 1600w, img/2.jpg 1000w, img/1.jpg 800w" src="img/undraw_happy_music-1600_large.png" alt="Imagenes" >
 
